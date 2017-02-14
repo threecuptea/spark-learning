@@ -58,7 +58,6 @@ hadoop jar /path/to/your/hadoop-lzo.jar com.hadoop.compression.lzo.DistributedLz
   * However, If you store your data in s3 instead HDFS, do the following
 check the following
 http://spark.apache.org/docs/latest/configuration.html#compression-and-serialization
-http://spark.apache.org/docs/latest/configuration.html#compression-and-serialization
 
   Check book "Spark: Big Data Cluster Computing in Production" for general guideline
   */
